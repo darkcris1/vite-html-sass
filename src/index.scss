@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  color: green;
+}
+.asdasdsadasdasdas {
+  display: grid;
+  display: flex;
+  &::placeholder {
+    color: yellow;
+    filter: blur(20px);
+  }
+}
