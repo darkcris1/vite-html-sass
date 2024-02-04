@@ -2,7 +2,7 @@
 
 **Features**
 
-- UNCSS - remove unuse css
+- UNCSS - remove unuse css 
 - SCSS (autoprefixer)
 - Automatic Multipage Entries
 - Included (Bootstrap with FONTAWESOME PRO)
